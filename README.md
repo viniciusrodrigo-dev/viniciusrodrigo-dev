@@ -1,27 +1,33 @@
+<!--
+  README de perfil GitHub — Vinícius Rodrigo Silva
+  Salve este arquivo como README.md no repositório público
+  com o mesmo nome do seu usuário: viniciusrodrigo-dev
+-->
+
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B3B60,100:00D9FF&height=190&section=header&text=Vin%C3%ADcius%20Rodrigo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B3B60,100:00D9FF&height=190&section=header&text=Vin%C3%ADcius%20Rodrigo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=15"
     width="100%"
-    alt="Banner animado Vinícius Rodrigo"
+    alt="Banner de Vinícius Rodrigo"
   />
 
-  <a href="https://git.io/typing-svg">
+  <a href="https://readme-typing-svg.demolab.com/">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+c%C3%B3digo;Python+%7C+SQL+%7C+HTML+%7C+CSS;Automa%C3%A7%C3%A3o+%7C+APIs+%7C+Desenvolvimento"
-      alt="Texto animado: transformando ideias em código"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=680&lines=Transformando+ideias+em+c%C3%B3digo;Python+%7C+SQL+%7C+HTML+%7C+CSS+%7C+C;Automa%C3%A7%C3%A3o+%7C+APIs+%7C+Desenvolvimento"
+      alt="Texto animado sobre desenvolvimento"
     />
   </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/vini-silva-dev/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/vini-silva-dev/">
+      <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:viniciusrodrigo.dev@gmail.com">
-      <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+      <img src="https://img.shields.io/badge/E--mail-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
     </a>
     <a href="https://github.com/viniciusrodrigo-dev">
-      <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-Meus%20reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
 
@@ -31,117 +37,128 @@
 
 ---
 
-## `> whoami`
+## `> sobre_mim`
 
-Olá! Sou **Vinícius Rodrigo Silva**, estudante de **Engenharia de Software** e desenvolvedor em formação. Gosto de entender como as coisas funcionam, transformar problemas em soluções e aprender construindo projetos.
+Olá! Sou **Vinícius Rodrigo Silva**, estudante do **2º semestre de Engenharia de Software** e desenvolvedor em formação. Gosto de entender como as coisas funcionam, transformar problemas em soluções e aprender colocando a mão no código.
 
-Atualmente, direciono meus estudos principalmente para **Python, lógica de programação, SQL e desenvolvimento web**, com interesse especial em automação de processos, APIs e construção de sistemas.
+Atualmente, concentro meus estudos em **Python, lógica de programação, SQL e desenvolvimento web**, com interesse especial em automação de processos, integração com APIs e construção de sistemas.
 
-Minha experiência profissional como **Auxiliar Administrativo na Abecal** também me aproximou de problemas reais de organização, controle de informações e melhoria de processos — experiências que procuro transformar em oportunidades de automação com tecnologia.
+Minha experiência como **Auxiliar Administrativo na Abecal** me proporcionou contato com rotinas de organização, controle de informações, planilhas e melhoria de processos. Procuro aplicar essa visão prática no desenvolvimento de soluções tecnológicas.
 
 ```python
-developer = {
+perfil = {
     "nome": "Vinícius Rodrigo Silva",
     "formacao": "Engenharia de Software — 2º semestre",
-    "foco": ["Python", "SQL", "Desenvolvimento Web", "Automação"],
-    "objetivo": "Primeira oportunidade profissional na área de Tecnologia",
-    "mindset": "Aprender, construir, testar e evoluir."
+    "tecnologias": ["Python", "HTML", "CSS", "SQL/MySQL", "C"],
+    "interesses": ["Automação", "APIs", "Desenvolvimento de sistemas"],
+    "objetivo": "Conquistar minha primeira oportunidade profissional em TI",
+    "mentalidade": "Aprender, construir, testar e evoluir."
 }
 ```
 
-## `> tech_stack`
+## `> tecnologias_e_ferramentas`
 
-Tecnologias e fundamentos que venho utilizando nos estudos e projetos:
+Tecnologias e ferramentas que utilizo nos estudos e projetos:
 
 <div align="center">
 
-  <h3>Programming & Web</h3>
-  <img src="https://skillicons.dev/icons?i=python,html,css,c&theme=dark" alt="Python, HTML, CSS e C"/>
+  **Linguagens e desenvolvimento**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,c&theme=dark" alt="Ícones de Python, HTML, CSS e C"/>
 
-  <h3>Database & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub e VS Code"/>
+  <br/><br/>
+  **Banco de dados e ferramentas**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="Ícones de MySQL, Git, GitHub e VS Code"/>
 
 </div>
 
-- **Em prática:** Python, HTML, CSS e MySQL/SQL.
-- **Estudando e aprofundando:** lógica de programação, linguagem C, modelagem de dados e desenvolvimento de aplicações.
+- **Em prática:** Python, HTML, CSS e SQL/MySQL.
+- **Em desenvolvimento:** linguagem C, lógica de programação, modelagem de dados e desenvolvimento de aplicações.
 - **Conceitos aplicados:** APIs, automação de tarefas, estruturas de dados e organização de código.
 
-## `> featured_projects`
+## `> projetos_em_destaque`
 
-Alguns projetos que representam minha evolução prática:
+Projetos que representam minha evolução prática:
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Cinemax Ticket System](https://github.com/viniciusrodrigo-dev/cinemax-ticket-system) | Sistema de reservas de ingressos de cinema, com seleção de assentos e regras de reserva. | Python |
-| [Automação de Prontuários](https://github.com/viniciusrodrigo-dev/automacao-prontuarios) | Automação para extrair informações de documentos e preencher capas de prontuários. | Python, OCR, Word |
-| [Esporte Sem Limites](https://github.com/viniciusrodrigo-dev/esporte-sem-limites-web) | Site informativo sobre esporte adaptado, inclusão e acessibilidade. | HTML, CSS |
+### Sistema de Reservas de Cinema — Cinemax
+Sistema desenvolvido em Python para praticar lógica de programação, reservas, seleção de assentos e regras de negócio.
 
-Também desenvolvi exercícios e projetos de estudo envolvendo **consulta de CEP por API, registro de ponto e lógica de programação**.
+### Automação de Prontuários
+Projeto em Python para automatizar a extração de informações de documentos digitalizados e o preenchimento de capas de prontuários, utilizando OCR e integração com documentos Word.
 
-## `> experience_and_education`
+### Esporte Sem Limites
+Site informativo sobre esporte adaptado, inclusão e acessibilidade, desenvolvido com HTML e CSS.
 
-**Experiência profissional — Auxiliar Administrativo**  
-Abecal · Fev/2026 – Atual
+### Outros projetos de estudo
+Também desenvolvi projetos envolvendo consulta de CEP por API, registro de ponto e exercícios de lógica de programação.
+
+> Você pode encontrar meus projetos públicos na aba [Repositórios do GitHub](https://github.com/viniciusrodrigo-dev?tab=repositories).
+
+## `> experiencia_profissional`
+
+**Auxiliar Administrativo — Abecal**  
+*Fevereiro de 2026 – atual*
 
 - Apoio aos processos admissionais e demissionais.
 - Controle e organização de documentos.
 - Criação e acompanhamento de planilhas e relatórios.
 - Utilização de ferramentas Microsoft Office.
 - Apoio aos processos de compras.
-- Identificação de oportunidades de automação de tarefas.
+- Identificação de oportunidades para automação de tarefas.
 
-**Formação acadêmica**  
-Engenharia de Software · 2º semestre
+## `> formacao_e_cursos`
+
+**Formação acadêmica**
+- Engenharia de Software — 2º semestre.
 
 **Cursos**
-- Python Development — FIAP (80 horas).
+- Python Development — FIAP.
 - Introdução à Análise de Dados | Microsoft Power BI — Fundação Bradesco.
 
-## `> github_stats`
+## `> atividade_no_github`
+
+Os cartões externos de estatísticas foram removidos porque estavam retornando erro ao carregar. Para evitar imagens quebradas, esta seção utiliza indicadores do próprio GitHub via Shields.io:
 
 <div align="center">
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=viniciusrodrigo-dev&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=E6F1FF&rank_icon=github"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodrigo-dev&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=E6F1FF"
-    alt="Linguagens mais utilizadas"
-  />
+  <a href="https://github.com/viniciusrodrigo-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-p%C3%BAblicos-0B3B60?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios públicos"/>
+  </a>
+  <a href="https://github.com/viniciusrodrigo-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/viniciusrodrigo-dev?style=for-the-badge&logo=github&label=Seguidores&color=00A8CC" alt="Seguidores no GitHub"/>
+  </a>
+  <a href="https://github.com/viniciusrodrigo-dev">
+    <img src="https://img.shields.io/github/stars/viniciusrodrigo-dev?style=for-the-badge&logo=github&label=Estrelas%20recebidas&color=00A8CC" alt="Estrelas recebidas"/>
+  </a>
 
-  <br/>
+  <br/><br/>
 
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=viniciusrodrigo-dev&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6F1FF&dates=9CA3AF"
-    alt="Sequência de contribuições no GitHub"
-  />
+  <a href="https://github.com/viniciusrodrigo-dev">
+    <img src="https://img.shields.io/badge/Acompanhe-minha%20evolu%C3%A7%C3%A3o-050816?style=flat-square&logo=github&logoColor=00D9FF" alt="Acompanhe minha evolução"/>
+  </a>
 
 </div>
 
-## `> currently_focused_on`
+## `> objetivos_atuais`
 
-- Evoluir minha lógica e capacidade de resolver problemas.
+- Fortalecer minha lógica e capacidade de resolver problemas.
 - Desenvolver projetos mais completos com Python.
-- Aprofundar conhecimentos em SQL e bancos de dados relacionais.
+- Aprofundar meus conhecimentos em SQL e bancos de dados relacionais.
 - Aprimorar meus fundamentos de desenvolvimento web.
-- Aprender boas práticas de código, estrutura e documentação.
+- Aprender boas práticas de programação, estruturação e documentação.
 
-## `> let's_connect`
+## `> vamos_conversar`
 
-Estou aberto a trocar experiências, aprender com a comunidade e conversar sobre tecnologia, desenvolvimento e oportunidades na área.
+Estou aberto a trocar experiências, aprender com a comunidade e conversar sobre tecnologia, desenvolvimento e oportunidades na área de TI.
 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/vini-silva-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vin%C3%ADcius%20Rodrigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se no LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Vin%C3%ADcius%20Rodrigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn"/>
   </a>
   <a href="mailto:viniciusrodrigo.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-viniciusrodrigo.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie um e-mail"/>
+    <img src="https://img.shields.io/badge/E--mail-viniciusrodrigo.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie um e-mail"/>
   </a>
 
   <br/><br/>
